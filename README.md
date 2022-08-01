@@ -20,13 +20,14 @@ I wrote DAX measures such as Survival rate, Fatality rate, Total Fatalitites, To
 ![totals](https://user-images.githubusercontent.com/107109434/182189553-92affbdb-c356-4ebf-ba8a-f00443694317.PNG)
 
 ###### United States has the highest contribution to crashes with total of 1344 crashes and a total fatality of 15,392. Aeroflot, however recording highest of total crashes does not contribute in the United States but is largely in Russia and USSR.
+Why is United State the highest when Aeroflot is not even in the U.S? This is because other operators which records the ten highest and above crashes and fatalities are prdominantly used in the United States such as Military U.S Airforce, American Airlines, Pan American World Airways, Military U.S. Army Airforces, United Airlines and so on while Aeroflot is the one of the largest and oldest commercial airlines mostly used in Russia and former USSR.
 
 ![country](https://user-images.githubusercontent.com/107109434/182192732-a320071f-92fb-4483-bf17-0ee3da92056c.PNG)
 
 ###### Structural failure has the highest contribution to accident followed by weather
 ![cause](https://user-images.githubusercontent.com/107109434/182196994-f107ad2f-c386-4b9b-a4bf-6708fb1f2a78.PNG)
 
-###### Top-10 Operators that contribute to airplane crashes more
+###### Top-10 Operators that contribute to airplane crashes more. Aeroflot is the highest because it is oldest and one of the largest and bussiest commuters of civilians in Russia and USSR is likely majorly prone owing to its sheer size. Aeroflot was once the only airline in operation throughout the whole of the Soviet Union and by the mid-Sixties it was already carrying a remarkable 60 million passengers a year. At the height of the 1970 summer holiday season, it was flying 400,000 passengers a day. 
 
 ![operators](https://user-images.githubusercontent.com/107109434/182198098-18a0d77b-58cb-4f25-b80b-460dd65426f7.PNG)
 
