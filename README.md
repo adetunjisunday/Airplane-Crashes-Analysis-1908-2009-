@@ -40,3 +40,5 @@ Also, on Tuesday, September 11, 2001, an American Airline Boeing 767 and United 
 
 ![fata](https://user-images.githubusercontent.com/107109434/182253344-24e49f50-bc84-41e3-b10b-9285a4692352.PNG)
 
+# Recommendations
+- More airplane safety should be put in place to reduce crashes. These include accurate weather predictions, technical issues should be solved and crosschecked to prevent failures, advanced technological aid in ensuring more safety, enough spaces built in runways and so on.
